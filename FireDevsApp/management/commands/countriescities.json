@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Cuba",
+    "cities": [
+      {
+        "name": "La Habana"
+      },
+      {
+        "name": "Pinar del rio"
+      },
+      {
+        "name": "Matanzas"
+      },
+      {
+        "name": "Villa Clara"
+      }
+    ]
+  },
+  {
+    "name": "Estados Unidos",
+    "cities": [
+      {
+        "name": "Florida"
+      },
+      {
+        "name": "Texas"
+      },
+      {
+        "name": "California"
+      },
+      {
+        "name": "Washington"
+      }
+    ]
+  }
+
+]
