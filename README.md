@@ -44,4 +44,4 @@ it would be much better.
 Besides, a simple application is built for a Rest API. With the purpose, mainly,
 of future consumption of the information from another interface.
 Currently it also allows both CRUD to be carried out.
-Finally, you can view a report view of the number of users by groups.
+Finally, you can view a report view of the number of students by groups.
